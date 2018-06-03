@@ -1,0 +1,28 @@
+{
+  "name": "kiela1-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevFleu/Kiela.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KevFleu/Kiela/issues"
+  },
+  "homepage": "https://github.com/KevFleu/Kiela#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "http": "0.0.0",
+    "moment": "^2.22.2",
+    "mongo": "^0.1.0",
+    "mongodb": "^3.0.10",
+    "socket.io": "^2.1.1"
+  }
+}
